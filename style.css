@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-color: dimgray;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.container-title{
+    text-align: center;
+    color: white;
+    background-color: rgb(24, 59, 98);
+    padding: 10px;
+    margin: 10px 0px 10px 0px;
+}
+.container-content{
+    text-align: center;
+    color: white;
+    /* background-color: cornsilk; */
+    padding: 10px;
+    margin: 10px 0px 10px 0px;
+}
